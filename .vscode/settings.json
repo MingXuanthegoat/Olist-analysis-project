@@ -1,0 +1,5 @@
+{
+  "mssql.intelliSense.enableErrorChecking": false,
+  "mssql.intelliSense.enableSuggestions": false,
+  "files.associations": { "*.sql": "sql" }
+}
